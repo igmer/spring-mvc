@@ -7,7 +7,7 @@ public class Pelicula {
 	private String titulo;
 	private int duracion;
 	private String clasificacion;
-	private String imagen= "cimema.png";
+	private String imagen= "cinema.png";
 	private Date fechaEstreno;
 	private String status= "activa";
 	public int getId() {

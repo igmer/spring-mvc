@@ -46,6 +46,7 @@ public class HomeController {
 			pelicula2.setTitulo("Venon");;
 			pelicula2.setDuracion(150);
 			pelicula2.setClasificacion("Accion");
+			pelicula2.setImagen("venom.png");
 			pelicula2.setFechaEstreno(format.parse("10-10-2018"));
 			 lista.add(pelicula1);
 			 lista.add(pelicula2);
